@@ -4,7 +4,8 @@
 			"path": "app"
 		},
 		{
-			"path": "server"
+			"path": "server",
+			"name": "server"
 		}
 	],
 	"settings": {}
