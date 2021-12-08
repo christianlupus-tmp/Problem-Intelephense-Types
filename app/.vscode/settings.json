@@ -1,5 +1,5 @@
 {
     "intelephense.environment.includePaths": [
-        "${workspaceFolder:server}/lib/**/*.php"
+        "${workspaceFolder:server}/lib"
     ]
 }
