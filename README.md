@@ -1,11 +1,7 @@
 # How to trigger the problem
 
 1. Clone this repo somewhere with sufficient space (will need a few 100MB due to NC code base) 
-2. Go to the checked out folder. Clone the Nextcloud codebase into the folder `server`. An example to do so is to call in this folder
-```
-git clone https://github.com/nextcloud/server server --depth 1
-```
-3. Open the workspace file
+2. Open the workspace file
 
 This should open a multi-root workspace with some dummy data (Minimal (Non-) Working Example).
 
