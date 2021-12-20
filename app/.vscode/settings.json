@@ -1,5 +1,9 @@
 {
     "intelephense.environment.includePaths": [
-        "${workspaceFolder:server}/lib"
+        "${workspaceFolder:server}/lib",
+        // "../server",
+        // "../server/lib/",
+        "/tmp/Problem-Intelephense-Types/server/lib",
+        // "../server/lib/public/Files"
     ]
 }
